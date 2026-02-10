@@ -159,7 +159,7 @@ header img {
   position: absolute;
   width: 550px;
   height: 550px;
-  background: url('https://tse2.mm.bing.net/th/id/OIP.XDHpgHiNrhYqb4HY02VCewHaFj?rs=1&pid=ImgDetMain&o=7&rm=3') center / contain no-repeat;
+  background: url('https://clipground.com/images/portal-rick-and-morty-png-2.gif') center / contain no-repeat;
   opacity: 0.5;
   filter: hue-rotate(10deg) brightness(1.2);
   animation: portalRotate 15s linear infinite;
@@ -269,4 +269,5 @@ header img {
     height: 400px;
   }
 }
+
 
